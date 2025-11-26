@@ -14,3 +14,15 @@
 
       
 
+# Atividade 02
+
+# qtd_disponivel = int(input('Informe a quantidade disponível: '))
+# qtd_cliente = int(input('Informe a quantidade solicitada: '))
+# peso = float(input('Informe o peso do produto: '))
+
+# if qtd_cliente > qtd_disponivel:
+#     if peso >== 50
+#         print('Erro! Revise a quantidade ou o peso do pedido')
+
+# else:
+#     print('Oba! Seu pedido foi realizado com sucesso')
